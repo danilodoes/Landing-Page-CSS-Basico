@@ -1,0 +1,71 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    color: #555;
+}
+
+a {
+    text-decoration: none;
+    color: #fd8a24;
+}
+legend{
+    font-size: small;
+}
+
+h1,
+h2,
+h5 {
+    color: #111;
+}
+
+#top-bar {
+    background-color: #333;
+    text-align: center;
+    font-size: 2em;
+    color: white;
+    border-bottom: 5px solid #fd8a24;
+}
+
+#header {
+    margin: auto;
+    width: 90%;
+}
+
+#title {
+    font-size: 2.5em;
+}
+
+#autor {
+    margin-bottom: 0;
+    font-size: x-small;
+}
+
+#atualizacao {
+    font-size:xx-small;
+}
+
+.ajust-icons {
+    margin: 10px;
+    margin-left: 0;
+    width: 20px;
+}
+
+#content {
+    text-align: justify;
+    width: 60%;
+    margin: auto;
+}
+img{
+    width: 100%;
+}
+
+#roda-pe{
+    background-color:#333;
+    height: 3em;
+}
+body{
+    margin-bottom: 0;
+}
