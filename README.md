@@ -9,8 +9,8 @@ Busquei aplicar medidas relativas, para entregar uma aplicação responsiva sem 
 - HTML 5 
 - CSS 3 
 
-## Capturas de Tela 📷
+## Demo 📷
 
 <p align="center">
-  <img width="300" hieght="300" scr="toReadme/page.gif">
+  <img width="900" src="toReadme/page.gif">
 </p>
